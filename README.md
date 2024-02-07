@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prem</h1>
-<h3 align="center">A passionate Fullstack Developer/Cloud Architect from India</h3>
+<h3 align="center">A passionate Fullstack Developer/Cloud Architect from India and now leading a FinTech company called iFinStrats. We make Algos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem911&label=Profile%20views&color=0e75b6&style=flat" alt="prem911" /> </p>
 
